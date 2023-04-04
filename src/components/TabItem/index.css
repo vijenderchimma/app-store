@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.tab-list-item {
+  margin-right: 20px;
+}
+.tab-button {
+  border: none;
+  background-color: transparent;
+}
+.tab-button-styling {
+  color: #2563eb;
+  text-decoration: underline;
+  border: none;
+  font-weight: 800px;
+}
